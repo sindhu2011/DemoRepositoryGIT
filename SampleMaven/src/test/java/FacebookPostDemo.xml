@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <groups><run><include name="sarinity"></include></run></groups>
+    <classes>
+      <class name="demo123.FacebookPostDemo"/>
+      <class name="demo123.DriverClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
